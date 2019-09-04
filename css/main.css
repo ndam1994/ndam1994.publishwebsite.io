@@ -139,6 +139,15 @@ PAGE:
     border-radius: 100px;
 }
 
+.nature {
+	display: block;
+    float:center;
+    width:500px;
+    height:300px;
+    margin-left:auto;
+	margin-right:auto;
+}
+
 
 
 
@@ -171,7 +180,7 @@ COLORS
 
 /* nav background on mobile devices*/
 nav {
-   background: #599a6b;
+   background: #FFFFFF;
 }
 
 nav a, nav a:visited {
@@ -184,6 +193,6 @@ nav a.selected, nav a:hover {
 }
 /* site body*/
 body {
-    background-color: #fff;
+    background-color: #FFFFFF;
     color: #000;
 }
